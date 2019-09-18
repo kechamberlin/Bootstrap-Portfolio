@@ -167,14 +167,12 @@ section h1 {
 .port-img-label {
     position: relative;
     bottom: 50px;
-    left: 50px;
     font-weight: bold;
     padding: 10px;
     background-color: #4aaaa5;
     color: white;
-    width: fit-content;
+    width: 200px;
     text-align: center;
-    height: 20px;
 }
 
 
